@@ -1,0 +1,15 @@
+E:\Code\C#\aclp\bin\Debug\net7.0\aclp.exe
+E:\Code\C#\aclp\bin\Debug\net7.0\aclp.deps.json
+E:\Code\C#\aclp\bin\Debug\net7.0\aclp.runtimeconfig.json
+E:\Code\C#\aclp\bin\Debug\net7.0\aclp.dll
+E:\Code\C#\aclp\bin\Debug\net7.0\aclp.pdb
+E:\Code\C#\aclp\obj\Debug\net7.0\aclp.csproj.AssemblyReference.cache
+E:\Code\C#\aclp\obj\Debug\net7.0\aclp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C#\aclp\obj\Debug\net7.0\aclp.AssemblyInfoInputs.cache
+E:\Code\C#\aclp\obj\Debug\net7.0\aclp.AssemblyInfo.cs
+E:\Code\C#\aclp\obj\Debug\net7.0\aclp.csproj.CoreCompileInputs.cache
+E:\Code\C#\aclp\obj\Debug\net7.0\aclp.dll
+E:\Code\C#\aclp\obj\Debug\net7.0\refint\aclp.dll
+E:\Code\C#\aclp\obj\Debug\net7.0\aclp.pdb
+E:\Code\C#\aclp\obj\Debug\net7.0\aclp.genruntimeconfig.cache
+E:\Code\C#\aclp\obj\Debug\net7.0\ref\aclp.dll
